@@ -17,3 +17,9 @@ And if we have an optimal Q-function, we have an optimal policy, since we know f
 ### To see ouptut of the Frozen_lake_RL_agent download the replay(1).mp4 file
 
 ### To see output of the Taxi_service_RL_agent download the replay.mp4 file
+
+## working model of frozen lake :
+https://huggingface.co/Anandbheesetti/q-FrozenLake-v1-4x4-noSlippery
+
+## working model of Taxi service:
+https://huggingface.co/Anandbheesetti/taxi_service_by_rl
